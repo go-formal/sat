@@ -1,0 +1,3 @@
+[submodule "gini"]
+	path = gini
+	url = https://github.com/irifrance/gini
